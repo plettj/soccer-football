@@ -1,5 +1,5 @@
 /**
- * Determines whether the user prefers "soccer" or "football" based on timezone.
+ * Determines whether "soccer" or "football" is more likely, based on timezone.
  *
  * @returns {boolean} `true` if "soccer" is most likely, `false` otherwise.
  */

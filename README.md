@@ -2,6 +2,8 @@
 
 A simple utility for distinguishing between users who say _soccer_ and those who say _football_.
 
+It relies on time zones. IP addresses are off limits as external APIs are not lightweight enough for this humble package... unless [you find a way](#contributing) to geo-locate website visitors without external overhead!
+
 ## Installation
 
 Install from [npm](https://www.npmjs.com/package/soccer-football) with your preferred package manager.
@@ -36,7 +38,7 @@ export default function localizeFootball() {
 
 ## Contributing
 
-I welcome any PRs to the [soccer-football repo](https://github.com/plettj/soccer-football), and will happily merge them if they're:
+I welcome any PRs to the [soccer-football repo](https://github.com/plettj/soccer-football#readme), and will happily merge them if they're:
 
 - Practical
 - Thoroughly tested

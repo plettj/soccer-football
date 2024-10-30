@@ -17,7 +17,12 @@
     "soccer",
     "football"
   ],
-  "author": "Josiah Plett",
+  "homepage": "https://www.npmjs.com/package/soccer-football",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plettj/soccer-football"
+  },
+  "author": "Josiah Plett <josiahlplett@gmail.com> (https://plett.dev)",
   "license": "MIT",
   "description": "Lightweight npm package for localizing 'soccer' vs 'football'",
   "devDependencies": {
