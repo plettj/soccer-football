@@ -4,17 +4,15 @@ A simple utility for distinguishing between users who say _soccer_ and those who
 
 ## Installation
 
-Install the package with your preferred package manager.
+Install with your preferred package manager.
 
 ```bash
-npm install soccer-football
-pnpm add soccer-football
-yarn add soccer-football
+npm i soccer-football
 ```
 
 ## Usage
 
-Simply import the `isSoccer` utility into any frontend module in your application, and call it!
+Simply import the `isSoccer` utility into any frontend module in your application.
 
 **Example in Typescript**
 
@@ -36,6 +34,14 @@ export default function localizeFootball() {
 }
 ```
 
+## Contributing
+
+I welcome any PRs to the [soccer-football repo](https://github.com/plettj/soccer-football), and will happily merge them if they're:
+
+- Practical
+- Thoroughly tested
+- Lightweight
+
 ## License
 
-Licensed under the [MIT License](https://github.com/plettj/soccer-football/blob/main/LICENSE)
+Licensed under the [MIT License](https://github.com/plettj/soccer-football/blob/master/LICENSE)

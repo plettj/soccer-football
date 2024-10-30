@@ -7,7 +7,13 @@
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "typescript",
+    "localization",
+    "soccer",
+    "football"
+  ],
   "author": "Josiah Plett",
   "license": "MIT",
   "description": "Lightweight npm package for localizing 'soccer' vs 'football'",
