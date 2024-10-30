@@ -4,7 +4,7 @@ A simple utility for distinguishing between users who say _soccer_ and those who
 
 ## Installation
 
-Install with your preferred package manager.
+Install from [npm](https://www.npmjs.com/package/soccer-football) with your preferred package manager.
 
 ```bash
 npm i soccer-football
